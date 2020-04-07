@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SQSCopy": {
+      "commandName": "Project"
+    }
+  }
+}
